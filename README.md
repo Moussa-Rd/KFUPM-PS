@@ -1,19 +1,34 @@
-# KFUPM-PS
+KFUPM Parking System 🚗
 
-📚 A collection of Problem Sets (PS) and solutions for courses at **King Fahd University of Petroleum & Minerals (KFUPM)**.
-
----
-
-## 📌 Overview
-
-This repository contains organized problem sets, assignments, and solutions for various KFUPM courses.  
-It is intended to help students:
-
-- Practice problem-solving
-- Review course material
-- Prepare for exams
-- Understand different solution approaches
+A web-based parking management system designed for King Fahd University of Petroleum & Minerals (KFUPM) to streamline parking allocation, monitoring, and user access.
 
 ---
 
-## 🗂️ Repository Structure
+📌 Overview
+
+The KFUPM Parking System is a platform that helps manage campus parking efficiently by providing:
+
+Real-time parking availability
+User-friendly interface for students and staff
+Organized parking allocation
+Reduced congestion and search time
+
+---
+
+✨ Features
+🔍 Real-Time Parking Status – View available and occupied parking spots
+👤 User Authentication – Secure login for students and staff
+🅿️ Parking Slot Management – Allocate and manage parking spaces
+📊 Dashboard – Monitor usage and parking statistics
+📱 Responsive Design – Works across desktop and mobile devices
+
+---
+
+🏗️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript / React
+Backend: Node.js / Flask / Django
+Database: MySQL / MongoDB
+Other Tools: Git, REST APIs
+
+---
