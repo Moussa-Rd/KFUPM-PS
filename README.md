@@ -1,4 +1,4 @@
-KFUPM Parking System 🚗
+**KFUPM Parking System** 🚗
 
 A web-based parking management system designed for King Fahd University of Petroleum & Minerals (KFUPM) to streamline parking allocation, monitoring, and user access.
 
